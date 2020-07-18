@@ -6,5 +6,5 @@ It's little coffee machine in your command line and offers functionality to orde
 
 ## Run Project
 
-Run the main method in: Coffee_Machine/Coffee Machine/task/src/machine/CoffeeMachine.java /
+Run the main method in: Coffee_Machine/src/machine/CoffeeMachine.java /
 
